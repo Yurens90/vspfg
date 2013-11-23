@@ -22,5 +22,6 @@ int main(int argc,      // Number of strings in array argv
 	optimo opt(matriz);
 	opt.repetir(100, ';');
 	cin.get();
+
 }
 
